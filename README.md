@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python program conducts a comprehensive statistical analysis of random samples drawn from a normal distribution. It explores fundamental concepts such as generating random samples, calculating confidence intervals, and comparing sample means with the true mean. Utilizing the power of NumPy, Matplotlib, and SciPy, the program provides visual insights into the variability and reliability of sample statistics.
+This Python program conducts a comprehensive statistical analysis of random samples drawn from a normal distribution. It explores fundamental concepts such as calculating confidence intervals and comparing sample means with the true mean. Utilizing the power of NumPy, Matplotlib, and SciPy, the program provides visual insights into the variability and reliability of sample statistics.
 
 ## Required Libraries
 - **NumPy:** Utilized for numerical operations and array manipulations.
